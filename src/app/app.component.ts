@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'This is a test! CodeShip';
+  description = 'Test Description';
 }
